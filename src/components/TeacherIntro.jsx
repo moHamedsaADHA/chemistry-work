@@ -49,7 +49,7 @@ const TeacherIntro = () => {
           
           <div className="flex items-center justify-end animate-slide-down pr-8 lg:pr-16">
             <img 
-              src="/chemistry.png"
+              src="assets/chemistry.png"
               alt="صورة الكيمياء"
               className="w-[420px] h-[420px] object-cover object-center rounded-full shadow-lg border-4 border-[#39ff14]/40 dark:border-[#39ff14] transition-all duration-500 hover:scale-105"
               style={{background: 'rgba(255,255,255,0.85)'}}

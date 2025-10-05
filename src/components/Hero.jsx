@@ -55,7 +55,7 @@ const Hero = () => {
       <div 
         className="absolute inset-0 z-0 bg-white dark:bg-[#101010]"
         style={{
-          backgroundImage: 'url("/chemistry.png")',
+          backgroundImage: 'url("assets/chemistry.png")',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat',

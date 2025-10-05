@@ -287,7 +287,7 @@ const ProfileInfo = ({ user }) => (
     <div className="flex flex-col md:flex-row items-center md:items-start space-y-4 md:space-y-0 md:space-x-6 md:space-x-reverse">
       <div className="flex-shrink-0">
         <img
-          src="/default_user.png"
+          src="assets/default_user.png"
           alt="صورة الطالب"
           className="w-32 h-32 rounded-full border-4 border-primary-200 dark:border-primary-800 object-cover"
         />

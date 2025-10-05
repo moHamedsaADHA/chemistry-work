@@ -21,7 +21,7 @@ const Header = () => {
   <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
   <div className="flex justify-between items-center h-20">
           <Link to="/" className="flex items-center space-x-3 space-x-reverse font-bold text-2xl text-[#222] dark:text-[#39ff14] drop-shadow-glow group">
-            <img src="/chemistry.png" alt="شعار الكيمياء" className="h-14 w-14 rounded-2xl object-cover shadow-[0_0_30px_#39ff14] border-4 border-[#39ff14]/40 dark:border-[#39ff14]" />
+            <img src="assets/chemistry.png" alt="شعار الكيمياء" className="h-14 w-14 rounded-2xl object-cover shadow-[0_0_30px_#39ff14] border-4 border-[#39ff14]/40 dark:border-[#39ff14]" />
             <span className="tracking-widest group-hover:text-[#222] dark:group-hover:text-white transition-colors duration-300">كيمياء أيمن كمال</span>
           </Link>
 

@@ -9,7 +9,7 @@ const CourseCard = ({ grade, description, lessonCount = 0 }) => {
   
   // دالة للحصول على صورة كيمياء موحدة لكل صف
   const getGradeImage = (grade) => {
-  return '/chemistry.png';
+  return 'assets/chemistry.png';
   };
 
   return (
